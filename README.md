@@ -9,19 +9,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iagooreis&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🚀 Main Skills  
-🐍 **Python** (automation, data analysis, web scraping)  
-
-## 🛠️ Tools  
-🖥️ **Visual Studio** | **VS Code** | 🐙 **Git & GitHub** | 🖥️ **Windows** | 📊 **Microsoft Office** | 📌 **Trello** | 📊 **Power BI**  
-
-## 📚 Other Knowledge  
-🌐 **HTML | CSS | JavaScript (basic)**  
-⚙️ **Flask | FastAPI | Pandas | SQLAlchemy | Selenium | PyAutoGUI | Tkinter**  
-📊 **XlsxWriter | OpenPyXL**  
-
-## 📖 Currently Learning  
-📌 **Python always!** Focusing on **SQL** and **Pandas**  
+ 
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/iago-reis27/" target="_blank">
